@@ -4,12 +4,11 @@ body {
 }
 
 a {
+    color:rgb(33, 33, 33)
     font-size: 50px;
     font-weight: bold;
     text-decoration: none;
-    text-align: left;
-    color:rgb(33, 33, 33)
-    
+    text-align: left;    
 }
 
 .nav {
@@ -25,4 +24,9 @@ a {
     list-style-type: none;
     margin: 30px;
     text-decoration: none;
+}
+
+p {
+    color:rgb(222, 222, 222)
+    font-weight: bold;
 }
