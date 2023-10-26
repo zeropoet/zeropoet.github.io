@@ -26,6 +26,24 @@ a {
     text-decoration: none;
 }
 
+.library {
+  text-align: left;
+}
+
+.library h1 {
+  font-weight: bold;
+}
+
+.library ul {
+  padding: 0%;
+}
+
+.library ul li {
+  list-style-type: circle;
+  margin: 30px;
+  text-decoration: none;
+}
+
 /* unvisited link */
 a:link {
     color: rgb(0, 0, 0);
