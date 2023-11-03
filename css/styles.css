@@ -36,10 +36,10 @@ a:visited {
   
 /* mouse over link */
 a:hover {
-    color: #bcbcbc;
+    color: #5b5b5b;
 }
   
 /* selected link */
 a:active {
-    color: #bcbcbc;
+    color: #5b5b5b;
 }
