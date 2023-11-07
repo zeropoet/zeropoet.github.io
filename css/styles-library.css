@@ -39,3 +39,23 @@ body {
     margin: 30px;
     text-decoration: none;
 }
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 0, 0);
+}
+  
+/* visited link */
+a:visited {
+    color: rgb(0, 0, 0);
+}
+  
+/* mouse over link */
+a:hover {
+    color: #5b5b5b;
+}
+  
+/* selected link */
+a:active {
+    color: #5b5b5b;
+}
