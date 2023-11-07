@@ -7,10 +7,13 @@ body {
 .logo {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
-    text-decoration: none;
     margin: 30px;
 }
 
+.logo a {
+    text-decoration: none;
+}
+    
 .library {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
