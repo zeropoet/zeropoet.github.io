@@ -24,6 +24,10 @@ a {
     margin: 20px 0px 0px 30px;
 }
 
+footer {
+    text-align: center;
+}
+
 /* unvisited link */
 a:link {
     color: rgb(0, 0, 0);
