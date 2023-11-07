@@ -1,19 +1,19 @@
 body {
     background-color: #f7f7f7;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgb(33, 33, 33)
+    color: rgb(33, 33, 33)
 }
 
 .logo {
-    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 30px;
+    text-align: left;
     text-decoration: none;
+    margin: 30px;
 }
 
 .library {
-    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
     margin: 30px;
 }
 
