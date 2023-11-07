@@ -4,32 +4,38 @@ body {
     color:rgb(33, 33, 33)
 }
 
+.logo {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+
 .library {
-  text-align: left;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 30px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
 }
 
 .library h1 {
-  font-size: 30px;
-  font-weight: bolder;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 .library h2 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top: 50px;
 }
 
 .library ul {
-  font-size: 18px;
-  font-weight: 400;
-  text-align: left;    
-  padding: 0%;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;    
+    padding: 0%;
 }
 
 .library ul li {
-  list-style-type: circle;
-  margin: 30px;
-  text-decoration: none;
+    list-style-type: circle;
+    margin: 30px;
+    text-decoration: none;
 }
