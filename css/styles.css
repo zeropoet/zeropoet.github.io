@@ -23,14 +23,6 @@ body {
     padding: 40px 0px 40px 30px;
 }
 
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 30px;
-    margin-inline-end: 0px;
-}
-
 /* unvisited link */
 a:link {
     color: rgb(0, 0, 0);
