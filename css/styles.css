@@ -24,8 +24,12 @@ body {
     padding-bottom: 30px;
 }
 
-.nav ul li p {
-    padding: 0px 0px 0px 30px;
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30px;
+    margin-inline-end: 0px;
 }
 
 /* unvisited link */
