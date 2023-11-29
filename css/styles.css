@@ -24,6 +24,10 @@ body {
     padding-bottom: 30px;
 }
 
+.nav ul li p {
+    padding: 0px 0px 0px 30px;
+}
+
 /* unvisited link */
 a:link {
     color: rgb(0, 0, 0);
