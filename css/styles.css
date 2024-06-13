@@ -25,20 +25,20 @@ body {
 
 /* unvisited link */
 a:link {
-    color: rgb(0, 0, 0);
+    color: f2f2ea;
   }
   
 /* visited link */
 a:visited {
-    color: rgb(0, 0, 0);
+    color: #f2f2ea;
 }
   
 /* mouse over link */
 a:hover {
-    color: #5b5b5b;
+    color: #f2f2ea;
 }
   
 /* selected link */
 a:active {
-    color: #5b5b5b;
+    color: #f2f2ea;
 }
