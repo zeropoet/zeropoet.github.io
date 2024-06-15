@@ -25,20 +25,20 @@ body {
 
 /* unvisited link */
 a:link {
-    color: #f2f2ea;
+    color: #ffffff;
   }
   
 /* visited link */
 a:visited {
-    color: #f2f2ea;
+    color: #ffffff;
 }
   
 /* mouse over link */
 a:hover {
-    color: #f2f2ea;
+    color: #ffffff;
 }
   
 /* selected link */
 a:active {
-    color: #f2f2ea;
+    color: #ffffff;
 }
